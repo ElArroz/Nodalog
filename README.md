@@ -125,6 +125,20 @@ _Reiniciamos_
 sudo service apache2 restart
 ```
 
+**Python 3 + IDLE3**
+_Por consola:_
+```
+sudo apt install python3 idle3
+```
+
+# Librerias 
+
+**Pymodbus**  
+_Una libreria para implementar el protocolo Modbus en Python_ 
+```
+pip install pymodbus
+```
+
 
 ## Ejecutando pruebas iniciales ⚙️
 
@@ -142,7 +156,7 @@ _Herramientas utilizadas y en pruebas_
 * [Usb Image Tool](https://www.alexpage.de/usb-image-tool/download/) - Quemador ISO usado.
 * [MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html) - Conexión SSH y FTP.
 * [Vnc Viewer](https://www.realvnc.com/es/connect/download/viewer/) - Conexión por escritorio remoto.
-* Python 3.7.3 - Incluido en el ISO
+* [Python 3](https://www.python.org/downloads/) - Para el programa
 * MariaDB
 
 
@@ -153,7 +167,7 @@ _Todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Antonio Chávez V.** - *Idea y hardware* - [Antonio (Linkedin)](https://www.linkedin.com/in/antonio-sisep/)
 * **German Varas** - *Bases de datos y PHP* - [German Varas](#)
-* **Miguel** - *Carne de cañon* - [Miguel](#)
+* **Miguel Gonzalez** - *Carne de cañon* - [Miguel](#)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/ElArroz/Nodalog/graphs/contributors) quíenes han participado en este proyecto. 
 ## Versiones 📌
